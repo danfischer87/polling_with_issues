@@ -7,7 +7,7 @@ To ask a poll question you set up a new milestone with an end date for when the 
 
 You add labels for what you want the person to choose between. 
 
-You vote by creating in issues in that milestone "poll question" with the label added of the choice you want to choose and you can add comments as to why you choose that within the issue.
+You vote by creating new issues in that milestone ("poll question") with the label added of the choice you want to choose and you can add comments as to why you choose that within the issue.
 
 To view the vote tally you filter by milestone and you can count the votes. 
 
