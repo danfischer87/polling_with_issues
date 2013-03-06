@@ -1,7 +1,7 @@
 polling_with_issues
 ===================
 
-For our time box challange of how use creatively use github issues. I have created a polling system.
+For our time box challange of how to creatively use github issues, I have created a polling system.
 
 To ask a poll question you set up a new milestone with an end date for when the poll should end. 
 
